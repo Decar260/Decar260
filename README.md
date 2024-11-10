@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lua
 - 📫 How to reach me in forums
 - 😄 Pronouns: carlos (brazilian)
-- ⚡ Fun fact: i am autisticat 1.75m and only 12 YEARS OLD!
+- ⚡ Fun fact: i am autistic 1.75m and only 12 YEARS OLD!  My nickname "decar" comes from "carlos" and "by" ok, you didn't understand, right? "de" is from "by" if translated into Portuguese and "carlos" only has the car forming "decar"
 
 <!---
 Decar260/Decar260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
